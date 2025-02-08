@@ -1,4 +1,4 @@
-#theerthan97<h2 align="center">
+<h2 align="center">
   Portfolio Website - v1.0<br/>
   <a href="https://github.com/theerthan973/Portfolio" target="_blank">Theerthan.tech</a>
 </h2>
@@ -24,10 +24,6 @@
     🔹
     <a href="https://github.com/theerthan973/Portfolio">Request Feature</a>
 </h3>
-
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
 
 ## Built With
 
