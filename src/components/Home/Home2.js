@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I specialize  in classics like
               <i>
-                <b className="purple">  data analytics and web development. </b>
+                <b className="purple">  AI/ML, data analytics, web development, and Android Studio. </b>
               </i>
               <br />
               <br />
